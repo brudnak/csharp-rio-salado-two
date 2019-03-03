@@ -1,0 +1,7 @@
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\andrew\Documents\csharp-cis262ad\lesson-001\InterfaceDemonstration\ConsoleUI\obj\Debug\ConsoleUI.pdb
