@@ -1,0 +1,59 @@
+﻿@model CompanyUI.Models.CustomerModels
+
+@{
+	ViewBag.Title = "Details";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!--Andrew Brudnak-->
+<h2>Details</h2>
+
+<div>
+	<h4>CustomerModels</h4>
+	<hr />
+	<dl class="dl-horizontal">
+		<dt>
+			@Html.DisplayNameFor(model => model.CustomerId)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.CustomerId)
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.FirstName)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.FirstName)
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.LastName)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.LastName)
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.CustomerCountry)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.CustomerCountry)
+		</dd>
+
+		<dt>
+			@Html.DisplayNameFor(model => model.CustomerEmail)
+		</dt>
+
+		<dd>
+			@Html.DisplayFor(model => model.CustomerEmail)
+		</dd>
+
+	</dl>
+</div>
+<p>
+	@Html.ActionLink("Edit", "Edit", new { id = Model.CustomerId }) |
+	@Html.ActionLink("Back to List", "Index")
+</p>

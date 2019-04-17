@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Fictitious Company</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+	<script src="http://cdn.syncfusion.com/js/assets/external/jquery-1.10.2.min.js"></script>
+	<!-- Essential JS UI widget -->
+	<script src="http://cdn.syncfusion.com/14.3.0.49/js/web/ej.web.all.min.js "></script>
+	
+	@section Scripts
+	{
+
+
+		<script type="text/javascript">
+
+			var data = @Html.Raw(Json.Encode(Model.ReportRows));
+
+
+			$(function () {
+				$('#chartcontainer').ejChart({
+					series: [{
+						dataSource: data,
+						xName: 'ReportCountry',
+						yName: 'Total',
+						name: 'Sales By State'
+					}],
+					primaryXAxis:
+					{
+						title: { text: 'ReportCountry' },
+						labelRotation : 90,
+						labelFormat:"{value}$",
+					},
+					primaryYAxis: {
+						labelFormat: 'c2'
+					},
+					commonSeriesOptions:
+					{
+						type: 'pie',
+						enableAnimation: true,
+						tooltip:{visible:true, format: "#point.y#"},
+					},
+				});
+			});
+		</script>
+	}
+	
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Fictitious Company", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+	                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+	                <li>@Html.ActionLink("Customers", "Index", "Customer")</li>
+	                <li>@Html.ActionLink("Invoices", "Index", "Invoice")</li>
+	                <li>@Html.ActionLink("Report", "Index", "Report")</li>
+	                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+	                <li>@Html.ActionLink("About", "About", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+			<p>&copy; @DateTime.Now.Year - Fictitious Company</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
