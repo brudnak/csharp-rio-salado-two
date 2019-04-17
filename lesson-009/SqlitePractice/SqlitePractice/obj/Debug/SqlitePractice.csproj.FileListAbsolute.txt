@@ -1,0 +1,36 @@
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\chinook.db
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\SqlitePractice.exe.config
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\SqlitePractice.exe
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\SqlitePractice.pdb
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.csproj.CopyComplete
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.exe
+C:\Users\Andrew\Desktop\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.pdb
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\chinook.db
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\SqlitePractice.exe.config
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\SqlitePractice.exe
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\SqlitePractice.pdb
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.csprojAssemblyReference.cache
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.csproj.CopyComplete
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.exe
+C:\Users\Andrew\Documents\02 Rio Salado College\01 Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson09\SqlitePractice\SqlitePractice\obj\Debug\SqlitePractice.pdb
