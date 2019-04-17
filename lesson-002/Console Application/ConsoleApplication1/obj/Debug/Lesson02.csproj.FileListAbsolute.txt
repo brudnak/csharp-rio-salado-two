@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson02\Lesson02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson02\Lesson02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson02\Lesson02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson02\Lesson02\ConsoleApplication1\obj\Debug\Lesson02.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson02\Lesson02\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson02\Lesson02\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
