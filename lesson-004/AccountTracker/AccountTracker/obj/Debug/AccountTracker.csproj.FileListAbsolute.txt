@@ -1,0 +1,7 @@
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\bin\Debug\AccountTracker.exe.config
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\bin\Debug\AccountTracker.exe
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\bin\Debug\AccountTracker.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\obj\Debug\AccountTracker.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\obj\Debug\AccountTracker.exe
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\obj\Debug\AccountTracker.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson04\AccountTracker\AccountTracker\bin\Debug\Accounts.txt
