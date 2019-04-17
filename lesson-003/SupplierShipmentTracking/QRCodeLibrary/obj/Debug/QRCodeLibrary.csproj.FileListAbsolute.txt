@@ -1,0 +1,7 @@
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\bin\Debug\QRCodeLibrary.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\bin\Debug\QRCodeLibrary.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\bin\Debug\QRCoder.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\bin\Debug\UnityEngine.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\obj\Debug\QRCodeLibrary.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\obj\Debug\QRCodeLibrary.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeLibrary\obj\Debug\QRCodeLibrary.csprojResolveAssemblyReference.cache

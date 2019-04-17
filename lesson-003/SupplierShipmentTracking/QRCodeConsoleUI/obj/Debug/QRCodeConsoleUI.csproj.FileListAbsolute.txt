@@ -1,0 +1,10 @@
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\QQCodeConsoleUI.exe.config
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\obj\Debug\QQCodeConsoleUI.exe
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\obj\Debug\QQCodeConsoleUI.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\QQCodeConsoleUI.exe
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\QQCodeConsoleUI.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\QRCodeLibrary.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\QRCoder.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\UnityEngine.dll
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\bin\Debug\QRCodeLibrary.pdb
+C:\Users\Andrew\Documents\Rio Salado\Fall 2018\CIS262AD - C# 2\Lesson03\SupplierShipmentTracking\QRCodeConsoleUI\obj\Debug\QRCodeConsoleUI.csprojResolveAssemblyReference.cache
